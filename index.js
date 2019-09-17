@@ -11,7 +11,7 @@ searchInput.addEventListener("keyup", enterPressed);
 
 function enterPressed(event) {
   if (event.key === "Enter") {
-    findWeatherDetails();
+    //findWeatherDetails();
   }
 }
 
