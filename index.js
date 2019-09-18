@@ -33,7 +33,7 @@ function findWeatherDetails() {
 function theResponse(response) {
   let jsonObject = JSON.parse(response);
   cityName.innerHTML = jsonObject.name;
-  icon.src = "http://openweathermap.org/img/w/" + jsonObject.weather[0].icon + ".png";
+  icon.src = "https://openweathermap.org/img/w/" + jsonObject.weather[0].icon + ".png";
   temperature.innerHTML = parseInt(cToF(jsonObject.main.temp - 273)) + "°";
   humidity.innerHTML = jsonObject.main.humidity + "%";
 }
