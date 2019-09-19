@@ -1,1 +1,3 @@
-Weather-Checker-API
+Weather Forecast Checker App
+
+
