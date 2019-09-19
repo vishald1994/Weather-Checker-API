@@ -1,5 +1,7 @@
 Weather-Checker-API App
 
+Summary
+
 A simple app you can use to check the current weather temperature and humidity of any city by simply typing in city name and clicking search icon or hitting enter key.
 
 Motivation 
@@ -9,5 +11,9 @@ I wanted to make a simple app to get me get me current temperatures and humidity
 https://vishald1994.github.io/Weather-Checker-API/
 
 Screenshot
+
+![Screen Shot 2019-09-19 at 11 28 23 AM](https://user-images.githubusercontent.com/49125707/65259975-9c7e7a80-dad3-11e9-8778-e3f6e692c47a.jpg)
+
+Made with: HTML/CSS/JavaScript/jQuery
 
 
