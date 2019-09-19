@@ -1,4 +1,4 @@
-Weather-Checker-API App
+Weather Forecast Checker
 
 Summary
 
