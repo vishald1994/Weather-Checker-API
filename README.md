@@ -8,7 +8,7 @@ Motivation
 
 I wanted to make a simple app to get me get me current temperatures and humidity just by inputting city name without having to input more information or allowing geo-location. It allows you to get cities that you're in as well as cities you are planning on going so you can know what type of weather you should dress for and what activities you plan on doing based on weather there.
 
-https://vishald1994.github.io/Weather-Checker-API/
+https://vishald1994.github.io/Weather-Forecast-Checker/
 
 Screenshot
 
