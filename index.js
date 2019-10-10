@@ -25,7 +25,7 @@ function findWeatherDetails() {
   if (searchInput.value === "") {
   }
   else {
-    let searchLink = "https://api.openweathermap.org/data/2.5/weather?q=" + searchInput.value + "&appid="+appKey;
+    let searchLink = "https://api.openweathermap.org/data/2.5/weather?zip={zip code}," + searchInput.value + "&appid="+appKey;
    httpRequestAsync(searchLink, theResponse);
   }
  }
